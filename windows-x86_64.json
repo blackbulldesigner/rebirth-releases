@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Primera beta pública de Rebirth.\n\n- Perfiles: cierra, abre y despriorizada programas con un clic\n- 24 ajustes de Windows, todos reversibles desde el propio programa\n- Interfaz completa en español e inglés\n- Activación de licencia sin conexión\n- Actualizador automático: a partir de aquí las versiones nuevas llegan solas",
+  "pub_date": "2026-08-20T07:24:44.194Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURTZPYkhWdURZTGtmNkNMMWxCeWg2Y0FPbUhDL1V0VDVRZmxQNzJ6eHMxcWZXM2hRSnVWa3hoV2hLbGFZMmhlNzc1LzV2REt1V2NZb0RWbnBSNGY3bEszbzZYNVMyYndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjEwNjgzCWZpbGU6UmViaXJ0aF8wLjEuMF94NjQtc2V0dXAuZXhlCkV3TXROMS9ONC8yc1V2aTkzN3FEWG9McEZTWGVNNDJUeG02VG9JR2IwRDQzNU5mN3Y2OHordWZkL2s3WlJ0TWViN0xIWUlKOHhiRlJqMVl0dVh3L0J3PT0K",
+      "url": "https://github.com/blackbulldesigner/rebirth-releases/releases/download/v0.1.0/Rebirth_0.1.0_x64-setup.exe"
+    }
+  }
+}
